@@ -1,0 +1,39 @@
+[general]
+file = map/terrain.png
+map = eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+      efffffffffffffe.j..h.h.e....e...e....e
+      e.............e........e....e...e....e
+      e......................e....e...e....e
+      e....................................e
+      e.............e......................e
+      eeeeeeeeeeeeeee...........t...t...t..e
+      e.j.j..e.h..h..........e.............e
+      e......e...............e.............e
+      e......e...............eeeeeeeeeeeeeee
+      e.t....e...............e.fffffff.....e
+      e......................e.fffffff.....e
+      e...........eeeeeeeeeeee.fffffff.....e
+      e.t..................................e
+      e......e.............................e
+      e......e.............................e
+      e.t....e...............e.fffffff.....e
+      e......e...............e.fffffff.....e
+      eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+[e]
+info = wall
+
+[f]
+info = acid
+
+[t]
+info = table
+
+[h]
+info = chest
+
+[j]
+info = board
+
+[.]
+info = void
