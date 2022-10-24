@@ -36,7 +36,7 @@ To install, follow these steps:
 ```
 git clone https://github.com/DiegoLoz65/CyberSpaceDungProjectUTP
 ```
-## ☕ Using Project_Name
+## ☕ Using CyberSpace Dungeon 
 
 #### Run this command in your CMD at the source path: 
 ```
