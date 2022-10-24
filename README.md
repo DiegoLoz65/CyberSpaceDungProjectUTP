@@ -11,8 +11,8 @@
 This project was developed for the computer graphics subject which is based on 8-bit styles, it consists of two levels which are won by killing the final boss.
 
 The controls are:
-⌨ Movements: WASD Keys
-🖱 Shot: Click anywhere on the map.
+* ⌨ Movements: WASD Keys
+* 🖱 Shot: Click anywhere on the map.
 
 For this project, vector geometry, equations of the straight line and plane, positioning of coordinate axes, the Bresenhamm algorithm, control algorithms, collisions, displacement, among others, were applied.
 
