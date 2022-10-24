@@ -9,6 +9,7 @@
 [![Imagen5.png](https://i.postimg.cc/5yztN0RP/Imagen5.png)](https://postimg.cc/kRnCTn98)
 
 This project was developed for the computer graphics subject which is based on 8-bit styles, it consists of two levels which are won by killing the final boss.
+
 The controls are:
 ⌨ Movements: WASD Keys
 🖱 Shot: Click anywhere on the map.
@@ -45,8 +46,10 @@ Test and enjoy! 😅
 
 ## 📫 Contact
 
-Instagram:  [@diegolozano_05](https://www.instagram.com/diegolozano_05/) 
-Linkedin:  https://www.linkedin.com/in/diegolozanom/
-Resources: 
-* https://craftpix.net
-* https://trevor-pupkin.itch.io/tech-dungeon-roguelite
+* Instagram:  [@diegolozano_05](https://www.instagram.com/diegolozano_05/) 
+
+* Linkedin:  https://www.linkedin.com/in/diegolozanom/
+
+## 🛠 Resources: 
+* [Crafpix](https://craftpix.net)
+* [itch.io](https://trevor-pupkin.itch.io/tech-dungeon-roguelite)
