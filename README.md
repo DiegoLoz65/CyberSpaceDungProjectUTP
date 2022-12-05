@@ -34,7 +34,7 @@ To install, follow these steps:
 
 * Clone the project:
 ```
-git clone https://github.com/DiegoLoz65/CyberSpaceDungProjectUTP
+git clone https://github.com/DiegoLoz65/cyber-spacedung-project-utp
 ```
 ## ☕ Using CyberSpace Dungeon 
 
